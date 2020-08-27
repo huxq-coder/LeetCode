@@ -106,7 +106,7 @@ import UIKit
 //    var maxLeft = height[0];
 //    var maxRight = height[height.count-1]
 //    var sum = 0
-//    while left < right {
+//    while left <= right {
 //        // min(maxLeft, maxRight)，确定左侧最大值小
 //        if maxLeft <= maxRight {
 //            /**
