@@ -34,8 +34,6 @@ class Solution {
     /**
      迭代
      官方题解：https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/er-cha-shu-de-qian-xu-bian-li-by-leetcode/
-     时间复杂度为O(n)
-     空间复杂度为O(n)
      */
 //    func preorderTraversal(_ root: TreeNode?) -> [Int] {
 //        var result = [Int]()
@@ -54,7 +52,8 @@ class Solution {
     
     /**
      在上一步的基础上进行优化
-     
+     时间复杂度为O(n)
+     空间复杂度为O(n)
      */
     func preorderTraversal(_ root: TreeNode?) -> [Int] {
         var result = [Int]()
