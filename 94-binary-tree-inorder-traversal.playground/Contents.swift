@@ -16,7 +16,7 @@ class Solution {
      递归算法
      官方题解：https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/er-cha-shu-de-zhong-xu-bian-li-by-leetcode/
      时间复杂度为O(n)
-     空间复杂度为O(logn)
+     空间复杂度为O(n)
      */
 //    func inorderTraversal(_ root: TreeNode?) -> [Int] {
 //        var result = [Int]()
